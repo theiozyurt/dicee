@@ -1,3 +1,5 @@
+![Ekran görüntüsü 2024-11-30 121254](https://github.com/user-attachments/assets/833bf018-63d2-4483-9ce5-c87008bdd059)
+![Ekran görüntüsü 2024-11-30 121305](https://github.com/user-attachments/assets/195a8bb9-17da-49a3-9e04-d120f24724e6)
 # dicee
 
 A new Flutter project.
