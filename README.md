@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is my first functional flutter project and I am happy to share this project on my GitHub Repository.
+Thanks...
 ## Getting Started
 
 This project is a starting point for a Flutter application.
